@@ -31,14 +31,17 @@ FastAPI backend used by the mobile and web apps.
 ### on_audio_query
 Forked from the original [on_audio_query](https://pub.dev/packages/on_audio_query) to extend features for sono-mobile.
 
-### sono_audio_reverb
-Plugin to add reverb to sono-mobile.
+### sono_refresh
+A custom pull-to-refresh indicator with logo animation.
 
 ### artist-image-service
 Service to scrape and save images from Deezer to display artist images in sono-mobile.
 
 ### version-service
 Update service for sono-mobile to keep the app up to date.
+
+### kworb-listeners-scraper
+Scrapes Spotify data from kworb.net and stores it in PostgreSQL.
 
 ---
 
