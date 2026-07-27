@@ -3,7 +3,7 @@
 **Welcome to Sono!**
 It's a music platform built around **local music playback**
 
-Built with Flutter. The new version does not include any tracking software.*
+Built with Flutter. Sono does not include any tracking software.*
 
 ---
 
