@@ -9,7 +9,7 @@ Built with Flutter. Sono does not include any tracking software.*
 
 ### Projects
 
-#### sono-new *(active)*
+#### sono-new
 Flutter mobile app for local music playback. This is the primary project and main focus of development.
 
 ---
